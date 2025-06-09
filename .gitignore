@@ -1,5 +1,14 @@
+djangoEnvi/
+
+face-clustering/
+package-lock.json
+requirements.txt
+
+images.zip
+
 envi_10/
 images/
+
 test1.jpg
 test2.jpg
 test3.png
