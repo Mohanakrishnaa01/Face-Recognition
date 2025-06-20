@@ -1,0 +1,101 @@
+Watching for file changes with StatReloader
+D:\Clg\Project\3rd year\image clustering\djangoEnvi\image_identifier\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Clg\Project\3rd year\image clustering\djangoEnvi\image_identifier\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Clg\Project\3rd year\image clustering\djangoEnvi\image_identifier\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+D:\Clg\Project\3rd year\image clustering\djangoEnvi\image_identifier\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Clg\Project\3rd year\image clustering\djangoEnvi\image_identifier\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Clg\Project\3rd year\image clustering\djangoEnvi\image_identifier\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Clg\Project\3rd year\image clustering\djangoEnvi\image_identifier\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Clg\Project\3rd year\image clustering\djangoEnvi\image_identifier\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Clg\Project\3rd year\image clustering\djangoEnvi\image_identifier\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Clg\Project\3rd year\image clustering\djangoEnvi\image_identifier\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Clg\Project\3rd year\image clustering\djangoEnvi\image_identifier\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Internal Server Error: /api/upload/
+D:\Clg\Project\3rd year\image clustering\djangoEnvi\image_identifier\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Clg\Project\3rd year\image clustering\djangoEnvi\image_identifier\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Received query image: test2.jpg
+Saved query image to: uploads/query/test2.jpg
+Error during image matching: 'NoneType' object has no attribute 'transform'
+Internal Server Error: /api/upload/query/
+Received ZIP file: images.zip
+Saved ZIP file temporarily to: C:\Users\RMOHAN~1\AppData\Local\Temp\tmp_98___th\images.zip
+Files in ZIP: ['images/', 'images/ameer1.jpeg', 'images/ameer10.jpeg', 'images/ameer11.jpeg', 'images/ameer12.jpeg', 'images/ameer14.jpeg', 'images/ameer15.jpeg', 'images/ameer16.jpeg', 'images/ameer18.jpeg', 'images/ameer19.jpeg', 'images/ameer2.jpeg', 'images/ameer20.jpeg', 'images/ameer21.jpeg', 'images/ameer22.jpeg', 'images/ameer23.jpeg', 'images/ameer24.jpeg', 'images/ameer25.jpeg', 'images/ameer26.jpeg', 'images/ameer6.jpeg', 'images/ameer8.jpeg', 'images/ameer9.jpeg', 'images/g1.png', 'images/g2.png', 'images/g3.png', 'images/g4.jpeg', 'images/g5.jpeg', 'images/g6.jpeg', 'images/m1.png', 'images/m2.jpeg', 'images/u1.jpeg']
+Extracted files to: D:\Clg\Project\3rd year\image clustering\djangoEnvi\media\uploads
+Found 0 images: []
+Bad Request: /api/upload/zip/
+D:\Clg\Project\3rd year\image clustering\djangoEnvi\image_identifier\views.py changed, reloading.
+Watching for file changes with StatReloader
+Received ZIP file: images.zip
+Saved ZIP file temporarily to: C:\Users\RMOHAN~1\AppData\Local\Temp\tmpq4eyb7cy\images.zip
+Files in ZIP: ['images/', 'images/ameer1.jpeg', 'images/ameer10.jpeg', 'images/ameer11.jpeg', 'images/ameer12.jpeg', 'images/ameer14.jpeg', 'images/ameer15.jpeg', 'images/ameer16.jpeg', 'images/ameer18.jpeg', 'images/ameer19.jpeg', 'images/ameer2.jpeg', 'images/ameer20.jpeg', 'images/ameer21.jpeg', 'images/ameer22.jpeg', 'images/ameer23.jpeg', 'images/ameer24.jpeg', 'images/ameer25.jpeg', 'images/ameer26.jpeg', 'images/ameer6.jpeg', 'images/ameer8.jpeg', 'images/ameer9.jpeg', 'images/g1.png', 'images/g2.png', 'images/g3.png', 'images/g4.jpeg', 'images/g5.jpeg', 'images/g6.jpeg', 'images/m1.png', 'images/m2.jpeg', 'images/u1.jpeg']
+Extracted files to: D:\Clg\Project\3rd year\image clustering\djangoEnvi\media\uploads
+Found 59 images: ['images\\ameer1.jpeg', 'images\\ameer10.jpeg', 'images\\ameer11.jpeg', 'images\\ameer12.jpeg', 'images\\ameer14.jpeg', 'images\\ameer15.jpeg', 'images\\ameer16.jpeg', 'images\\ameer18.jpeg', 'images\\ameer19.jpeg', 'images\\ameer2.jpeg', 'images\\ameer20.jpeg', 'images\\ameer21.jpeg', 'images\\ameer22.jpeg', 'images\\ameer23.jpeg', 'images\\ameer24.jpeg', 'images\\ameer25.jpeg', 'images\\ameer26.jpeg', 'images\\ameer6.jpeg', 'images\\ameer8.jpeg', 'images\\ameer9.jpeg', 'images\\g1.png', 'images\\g2.png', 'images\\g3.png', 'images\\g4.jpeg', 'images\\g5.jpeg', 'images\\g6.jpeg', 'images\\m1.png', 'images\\m2.jpeg', 'images\\u1.jpeg', 'images\\images\\ameer1.jpeg', 'images\\images\\ameer10.jpeg', 'images\\images\\ameer11.jpeg', 'images\\images\\ameer12.jpeg', 'images\\images\\ameer14.jpeg', 'images\\images\\ameer15.jpeg', 'images\\images\\ameer16.jpeg', 'images\\images\\ameer18.jpeg', 'images\\images\\ameer19.jpeg', 'images\\images\\ameer2.jpeg', 'images\\images\\ameer20.jpeg', 'images\\images\\ameer21.jpeg', 'images\\images\\ameer22.jpeg', 'images\\images\\ameer23.jpeg', 'images\\images\\ameer24.jpeg', 'images\\images\\ameer25.jpeg', 'images\\images\\ameer26.jpeg', 'images\\images\\ameer6.jpeg', 'images\\images\\ameer8.jpeg', 'images\\images\\ameer9.jpeg', 'images\\images\\g1.png', 'images\\images\\g2.png', 'images\\images\\g3.png', 'images\\images\\g4.jpeg', 'images\\images\\g5.jpeg', 'images\\images\\g6.jpeg', 'images\\images\\m1.png', 'images\\images\\m2.jpeg', 'images\\images\\u1.jpeg', 'query\\test2.jpg']
+Error during clustering process: Expected 2D array, got 1D array instead:
+array=[].
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+Internal Server Error: /api/upload/zip/
+Received ZIP file: images.zip
+Saved ZIP file temporarily to: C:\Users\RMOHAN~1\AppData\Local\Temp\tmpc5fwazpe\images.zip
+Files in ZIP: ['images/', 'images/ameer1.jpeg', 'images/ameer10.jpeg', 'images/ameer11.jpeg', 'images/ameer12.jpeg', 'images/ameer14.jpeg', 'images/ameer15.jpeg', 'images/ameer16.jpeg', 'images/ameer18.jpeg', 'images/ameer19.jpeg', 'images/ameer2.jpeg', 'images/ameer20.jpeg', 'images/ameer21.jpeg', 'images/ameer22.jpeg', 'images/ameer23.jpeg', 'images/ameer24.jpeg', 'images/ameer25.jpeg', 'images/ameer26.jpeg', 'images/ameer6.jpeg', 'images/ameer8.jpeg', 'images/ameer9.jpeg', 'images/g1.png', 'images/g2.png', 'images/g3.png', 'images/g4.jpeg', 'images/g5.jpeg', 'images/g6.jpeg', 'images/m1.png', 'images/m2.jpeg', 'images/u1.jpeg']
+Extracted files to: D:\Clg\Project\3rd year\image clustering\djangoEnvi\media\uploads
+Found 29 images: ['images\\ameer1.jpeg', 'images\\ameer10.jpeg', 'images\\ameer11.jpeg', 'images\\ameer12.jpeg', 'images\\ameer14.jpeg', 'images\\ameer15.jpeg', 'images\\ameer16.jpeg', 'images\\ameer18.jpeg', 'images\\ameer19.jpeg', 'images\\ameer2.jpeg', 'images\\ameer20.jpeg', 'images\\ameer21.jpeg', 'images\\ameer22.jpeg', 'images\\ameer23.jpeg', 'images\\ameer24.jpeg', 'images\\ameer25.jpeg', 'images\\ameer26.jpeg', 'images\\ameer6.jpeg', 'images\\ameer8.jpeg', 'images\\ameer9.jpeg', 'images\\g1.png', 'images\\g2.png', 'images\\g3.png', 'images\\g4.jpeg', 'images\\g5.jpeg', 'images\\g6.jpeg', 'images\\m1.png', 'images\\m2.jpeg', 'images\\u1.jpeg']
+Error during clustering process: Expected 2D array, got 1D array instead:
+array=[].
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+Internal Server Error: /api/upload/zip/
+D:\Clg\Project\3rd year\image clustering\djangoEnvi\image_identifier\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Clg\Project\3rd year\image clustering\djangoEnvi\image_identifier\face_clustering.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Clg\Project\3rd year\image clustering\djangoEnvi\image_identifier\face_clustering.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Clg\Project\3rd year\image clustering\djangoEnvi\image_identifier\face_clustering.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Clg\Project\3rd year\image clustering\djangoEnvi\image_identifier\face_clustering.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Clg\Project\3rd year\image clustering\djangoEnvi\image_identifier\face_clustering.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Internal Server Error: /api/upload/
+D:\Clg\Project\3rd year\image clustering\djangoEnvi\image_identifier\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Clg\Project\3rd year\image clustering\djangoEnvi\image_identifier\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Internal Server Error: /api/upload/
+D:\Clg\Project\3rd year\image clustering\djangoEnvi\image_identifier\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Clg\Project\3rd year\image clustering\djangoEnvi\image_identifier\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /api/upload/
+D:\Clg\Project\3rd year\image clustering\djangoEnvi\image_identifier\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Clg\Project\3rd year\image clustering\djangoEnvi\image_identifier\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /api/upload/
+Internal Server Error: /api/upload/
+D:\Clg\Project\3rd year\image clustering\djangoEnvi\image_identifier\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Clg\Project\3rd year\image clustering\djangoEnvi\image_identifier\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Clg\Project\3rd year\image clustering\djangoEnvi\image_identifier\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Clg\Project\3rd year\image clustering\djangoEnvi\image_identifier\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /api/upload/
