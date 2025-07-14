@@ -11,6 +11,7 @@ insightface
 numpy
 scikit-learn
 matplotlib
+onnxruntime
 
 # Optional (for image I/O if needed)
 Pillow
@@ -22,3 +23,5 @@ python-dotenv
 
 # For compatibility with some cloud deployments
 psycopg2-binary  # if using PostgreSQL
+
+djangorestframework

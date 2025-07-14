@@ -21,7 +21,6 @@ debug.log
 
 
 package-lock.json
-requirements.txt
 
 images.zip
 
@@ -36,3 +35,5 @@ test5.jpeg
 yolov8n.pt
 
 /face-clustering/package.json
+
+/djangoEnvi/media
