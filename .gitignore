@@ -1,5 +1,22 @@
 __pycache__/
 *.pyc
+
+# Django
+*.log
+*.pot
+*.pyc
+*.pyo
+*.db
+db.sqlite3
+
+# Environment
+.env
+.env.*
+
+# VSCode/IDE
+.vscode/
+.idea/
+
 debug.log
 
 
@@ -9,7 +26,6 @@ requirements.txt
 images.zip
 
 environ/
-djangoEnvi
 images/
 
 test1.jpg

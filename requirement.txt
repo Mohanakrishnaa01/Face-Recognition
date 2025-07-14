@@ -1,0 +1,24 @@
+# Core
+Django>=4.2,<5.0
+gunicorn
+
+# File handling
+python-magic
+
+# Face detection & image processing
+opencv-python
+insightface
+numpy
+scikit-learn
+matplotlib
+
+# Optional (for image I/O if needed)
+Pillow
+
+# Environment variable and deployment utils
+dj-database-url
+django-cors-headers
+python-dotenv
+
+# For compatibility with some cloud deployments
+psycopg2-binary  # if using PostgreSQL
