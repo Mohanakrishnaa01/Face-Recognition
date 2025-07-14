@@ -1,11 +1,10 @@
-djangoEnvi/
-
 package-lock.json
 requirements.txt
 
 images.zip
 
-envi_10/
+environ/
+djangoEnvi
 images/
 
 test1.jpg
