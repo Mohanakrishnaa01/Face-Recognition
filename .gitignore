@@ -1,3 +1,8 @@
+__pycache__/
+*.pyc
+debug.log
+
+
 package-lock.json
 requirements.txt
 
@@ -13,3 +18,5 @@ test3.png
 test4.jpeg
 test5.jpeg
 yolov8n.pt
+
+/face-clustering/package.json
