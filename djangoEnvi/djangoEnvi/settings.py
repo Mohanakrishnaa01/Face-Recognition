@@ -135,7 +135,12 @@ MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
 # CORS settings
-CORS_ALLOW_ALL_ORIGINS = True  # For development only
+CORS_ALLOW_ALL_ORIGINS = False  # For development only
+CORS_ALLOWED_ORIGINS = [
+    "https://image-identifier-llm4.onrender.com",
+    "https://face-backend-mc3a.onrender.com",
+    "http://localhost:3000",  # for local dev, optional
+]
 CORS_ALLOW_CREDENTIALS = True
 
 # Logging configuration
