@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { FaDownload, FaUpload } from 'react-icons/fa';
 import '../styles/ImageClustering.css';
 
-const API_BASE_URL = import.meta.env.VITE_API_URL;
+const API_BASE_URL = "https://face-backend-mc3a.onrender.com";
 
 const ImageClustering = () => {
   const [zipFile, setZipFile] = useState(null);
